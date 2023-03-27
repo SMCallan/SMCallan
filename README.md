@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **SMCallan/SMCallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/126923185/228062323-c2927795-f5a3-4c75-8e2c-a38f59c6bef5.png)
