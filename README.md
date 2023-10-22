@@ -10,3 +10,18 @@
 - 📫 How to reach me: ... if you need me, I'll be there
 - 😄 Pronouns: ... Call me whatever you want as long as you say it nicely
 
+PROJECTS:
+
+Github Pro (Version control and repo) Git -Project 
+
+Artifical Intelligence research & build - project: specifically interested in AI general intelligence, and solutions
+
+Design and content generation (although I work on general projects, I am especially interested in the scope of AI and creativity)
+
+Development Environments for Programming languages; build and deployment
+
+Game development; building classic games for future gens; projects 
+
+AWS & Azure Cloud architecture and utility of virtual machines and cloud networks in the use of building advanced computational system
+
+Interested in cloud, AI, SWE, and systems optimisation, research and technology 
