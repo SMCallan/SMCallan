@@ -12,16 +12,23 @@
 
 PROJECTS:
 
-Github Pro (Version control and repo) Git -Project 
+GitHub Pro (Version Control and Repositories):
+I specialize in version control using Git and managing repositories on GitHub.
 
-Artifical Intelligence research & build - project: specifically interested in AI general intelligence, and solutions
+Artificial Intelligence Research & Development Projects:
+I have a keen interest in AI general intelligence and solutions.
 
-Design and content generation (although I work on general projects, I am especially interested in the scope of AI and creativity)
+Design and Content Generation:
+While I work on various projects, I'm particularly fascinated by the intersection of AI and creativity.
 
-Development Environments for Programming languages; build and deployment
+Development Environments for Programming Languages:
+I focus on creating development environments for various programming languages, including building and deploying applications.
 
-Game development; building classic games for future gens; projects 
+Game Development:
+My projects involve the development of classic games for future generations.
 
-AWS & Azure Cloud architecture and utility of virtual machines and cloud networks in the use of building advanced computational system
+AWS & Azure Cloud Architecture:
+I explore the architecture of AWS and Azure, with a focus on the utility of virtual machines and cloud networks for building advanced computational systems.
 
-Interested in cloud, AI, SWE, and systems optimisation, research and technology 
+Interests:
+I am passionate about cloud computing, artificial intelligence, software engineering, and systems optimization. My work revolves around research and technology.
