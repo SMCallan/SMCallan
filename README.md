@@ -1,4 +1,4 @@
-![Firefly Generate a detailed design for a Gundam-inspired suit with a strong emphasis on non-violent ](https://github.com/SMCallan/SMCallan/assets/126923185/c2253db3-4a18-43e1-897c-11c56989065d)
+![image](https://github.com/SMCallan/SMCallan/assets/126923185/61ec141c-e275-42b4-b027-db96af92a7ab)
 
 <img width="1025" alt="image" src="https://github.com/SMCallan/SMCallan/assets/126923185/c06b8b22-e83e-40e4-8594-39b45588252a">
 
