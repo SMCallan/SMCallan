@@ -1,36 +1,18 @@
 ![image](https://github.com/SMCallan/SMCallan/assets/126923185/61ec141c-e275-42b4-b027-db96af92a7ab)
 
-- 🔭 I’m currently working on ... Masters of Science; Computer Science (Software Engineering) degree at the University of Staffordshire
-- 🌱 I’m currently learning ... Advanced practice and full-management of software development lifecyle, and full-stack software engineering.
-- 👯 I’m looking to collaborate on ... Artifical Intelligence, and Mad Scientist Ideas, as well as pretty much anything interesting!
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... logic 
-- 📫 How to reach me: ... if you need me, I'll be there
-- 😄 Pronouns: ... Call me whatever you want as long as you say it nicely
+- 🔭 MS in Computer Science (Staffordshire), with skills in software/web development, Java enterprise applications, innovative tech, pen-testing, and forensics. Background in clinical psychology and acute mental health.
+ 
+- 🌱 Full-stack software solutions. Software engineering solutions using the right tools!
 
-PROJECTS:
 
-GitHub Pro (Version Control and Repositories):
-I specialize in version control using Git and managing repositories on GitHub.
+- 🤖🦾 Artifical Intelligence, machine learning and all things automation! Beep boop.
 
-Artificial Intelligence Research & Development Projects:
-I have a keen interest in AI general intelligence and solutions.
 
-Design and Content Generation:
-While I work on various projects, I'm particularly fascinated by the intersection of AI and creativity.
 
-Development Environments for Programming Languages:
-I focus on creating development environments for various programming languages, including building and deploying applications.
 
-Game Development:
-My projects involve the development of classic games for future generations.
 
 <img width="1025" alt="image" src="https://github.com/SMCallan/SMCallan/assets/126923185/c06b8b22-e83e-40e4-8594-39b45588252a">
 
 
 
-AWS & Azure Cloud Architecture:
-I explore the architecture of AWS and Azure, with a focus on the utility of virtual machines and cloud networks for building advanced computational systems.
 
-Interests:
-I am passionate about cloud computing, artificial intelligence, software engineering, and systems optimization. My work revolves around research and technology.
