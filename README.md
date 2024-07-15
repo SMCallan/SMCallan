@@ -1,4 +1,4 @@
-# Cal  S. M.
+# CallanSM
 
 Software Engineer
 ----
