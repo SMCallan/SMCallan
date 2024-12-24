@@ -3,5 +3,5 @@
 Software Engineer
 ----
 London, UK
-### Develops applications and software.  About all things tech.
+### Here is a guy all about things tech. That develops applications and software.
 
