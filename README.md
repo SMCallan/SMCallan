@@ -1,14 +1,14 @@
-# Callan Smith MacDonald
+# Callan Smith MacDonald &copy;
 
 ## Software Engineer
 ----
 ### London, UK
 
 ----
-Current Project
+Current Project :rocket: &copy;
 ----
 
-# Project: Earth Origins Digital Laboratory
+# Project: Earth Origins Digital Laboratory :microscope: &copy;
 
 **Project Overview:**
 A computational simulation platform designed to model early Earth conditions and chemical evolution, with the goal of studying the emergence of complex biological systems from primordial chemistry.
@@ -31,7 +31,7 @@ The project utilizes high-performance computing frameworks to simulate:
 - Graphics: OpenGL/Vulkan for 3D visualization
 - Computation: CUDA/MPI for parallel processing
 
-**Research Applications:**
-This platform aims to provide insights into abiogenesis and the conditions that led to the emergence of life on Earth, offering a digital laboratory for testing hypotheses about life's origins through computational modeling.
+**Research Applications:** :microscope:
+This platform aims to provide insights into abiogenesis and the conditions that led to the emergence of life on Earth, offering a digital laboratory for testing hypotheses about life's origins through computational modeling. :smile: :smile: :smile:
 
 
