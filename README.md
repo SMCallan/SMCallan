@@ -5,7 +5,6 @@
 
 Visit https://computerscience.engineer/ 
 
-As well as https://www.callansm.com
+As well as https://www.callansm.com 
 
-![Art Glitch GIF](https://github.com/user-attachments/assets/f50c2c87-2bc4-444d-a73a-4ae415533f9d) ![Flag Palestine GIF by Guy with Red Beard](https://github.com/user-attachments/assets/7ac6c3fe-8c45-451e-b12a-c61414d9d133)
-
+![Coding Computer Science GIF by Squirrel Monkey](https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa)
