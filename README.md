@@ -1,11 +1,11 @@
 # This is the github of Callan the programmer AKA NUTELLA0NT0AST
 
 
-# Porfolio:
+## Portfolio:
 - https://computerscience.engineer/ 
 - https://www.callansm.com
 
-# Games:
+## Games:
 - https://smcallan.github.io/METAL_SLUG/
 
 
