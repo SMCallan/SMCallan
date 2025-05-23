@@ -2,20 +2,20 @@
 
 Applications I have developed
 
-## Portfolio:
+## Website Portfolio Apps:
 - https://computerscience.engineer/ 
 - https://www.callansm.com
 
-## Games:
+## Game App:Metal Lugz
 - https://smcallan.github.io/METAL_SLUG/
 
-## Weather API APP:
+## Weather APP:
 - https://smcallan.github.io/GITGUD/ 
 
-## Poetry API DB
+## Poetry App:
 - https://smcallan.github.io/PoetryDB-API/
 
-## Hindsight Trader Pro 📈
+## Finance App: Hindsight Trader Pro 📈
 Analyze historical asset performance for optimal hypothetical trades & behavioral insights.
 - https://smcallan.github.io/ChronoVest/
 
