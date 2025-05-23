@@ -7,14 +7,16 @@ Applications I have developed
 - https://www.callansm.com
 
 ## Game App: Metal Lugz
+A simple tribute to the classic arcade game.
 - https://smcallan.github.io/METAL_SLUG/
 
 ## Weather APP: Weather Now
+Direct way to check the weather in your area, no ads.
 - https://smcallan.github.io/GITGUD/ 
 
 ## Poetry App: Poetry Portal
-- https://smcallan.github.io/PoetryDB-API/
 Discover timeless verses with PoetryDB. Use the search to find poems by title, author, or lines, or fetch random verses.
+- https://smcallan.github.io/PoetryDB-API/
 ## Finance App: Hindsight Trader Pro 📈
 Analyze historical asset performance for optimal hypothetical trades & behavioral insights.
 - https://smcallan.github.io/ChronoVest/
