@@ -15,8 +15,10 @@ Applications I have developed
 ## Poetry API DB
 - https://smcallan.github.io/PoetryDB-API/
 
-  ![Coding Computer Science GIF by Squirrel Monkey](https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa)
-
 ## Hindsight Trader Pro 📈
 Analyze historical asset performance for optimal hypothetical trades & behavioral insights.
 - https://smcallan.github.io/ChronoVest/
+
+
+
+  ![Coding Computer Science GIF by Squirrel Monkey](https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa)
