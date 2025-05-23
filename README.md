@@ -14,7 +14,7 @@ Applications I have developed
 
 ## Poetry App: Poetry Portal
 - https://smcallan.github.io/PoetryDB-API/
-
+Discover timeless verses with PoetryDB. Use the search to find poems by title, author, or lines, or fetch random verses.
 ## Finance App: Hindsight Trader Pro 📈
 Analyze historical asset performance for optimal hypothetical trades & behavioral insights.
 - https://smcallan.github.io/ChronoVest/
