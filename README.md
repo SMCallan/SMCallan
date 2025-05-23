@@ -12,7 +12,7 @@ Applications I have developed
 ## Weather APP: Weather Now
 - https://smcallan.github.io/GITGUD/ 
 
-## Poetry App:
+## Poetry App: Poetry Portal
 - https://smcallan.github.io/PoetryDB-API/
 
 ## Finance App: Hindsight Trader Pro 📈
