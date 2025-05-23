@@ -6,10 +6,10 @@ Applications I have developed
 - https://computerscience.engineer/ 
 - https://www.callansm.com
 
-## Game App:Metal Lugz
+## Game App: Metal Lugz
 - https://smcallan.github.io/METAL_SLUG/
 
-## Weather APP:
+## Weather APP: Weather Now
 - https://smcallan.github.io/GITGUD/ 
 
 ## Poetry App:
