@@ -1,29 +1,33 @@
-# This is the github of Callan the programmer AKA NUTELLA0NT0AST
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa" width="400" alt="Coding Computer Science GIF by Squirrel Monkey" />
+</p>
 
-Applications I have developed
+<h1 align="center">Callan SM (NUTELLA0NT0AST)</h1>
 
-## Website Portfolio Apps:
-- https://computerscience.engineer/ 
-- https://www.callansm.com
+Hi there! I'm Callan. I enjoy building web apps, experimenting with APIs, and sharing my projects with the community.
 
-## Game App: Metal Lugz
+## Featured Projects
+
+### [Metal Lugz](https://smcallan.github.io/METAL_SLUG/)
 A simple tribute to the classic arcade game.
-- https://smcallan.github.io/METAL_SLUG/
 
-## Weather APP: Weather Now
-Direct way to check the weather in your area, no ads.
-- https://smcallan.github.io/GITGUD/ 
+### [Weather Now](https://smcallan.github.io/GITGUD/)
+A direct way to check the weather in your area—no ads.
 
-## Poetry App: Poetry Portal
-Discover timeless verses with PoetryDB. Use the search to find poems by title, author, or lines, or fetch random verses.
-- https://smcallan.github.io/PoetryDB-API/
-## Finance App: Hindsight Trader Pro 📈
-Analyze historical asset performance for optimal hypothetical trades & behavioral insights.
-- https://smcallan.github.io/ChronoVest/
+### [Poetry Portal](https://smcallan.github.io/PoetryDB-API/)
+Discover timeless verses with PoetryDB. Search by title, author, or lines, or fetch random verses.
 
+### [Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/) 📈
+Analyze historical asset performance for optimal hypothetical trades and behavioral insights.
 
+## Portfolio Links
+- [computerscience.engineer](https://computerscience.engineer/)
+- [callansm.com](https://www.callansm.com)
 
-  ![Coding Computer Science GIF by Squirrel Monkey](https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa)
+---
+
+<details>
+<summary>My long-form thoughts on AI & society</summary>
 
 # The Digital Crossroads: Why Our Age-Old Fears About AI Are Coming True
 
@@ -44,3 +48,4 @@ What gives me pause is how the behavioral research of Daniel Kahneman and Dan Ar
 Standing at this crossroads, I realize that the question isn't whether technology will transform society—it already has. The question is whether we'll learn from the centuries of wisdom about power, inequality, and human nature that came before us. We have the intellectual framework to build something better. The voices of the past are calling to us, warning us, and showing us the way forward. Whether we listen may determine not just our economic future, but the fate of human dignity itself.
 
 The choice, as it has always been, is ours to make.
+</details>
