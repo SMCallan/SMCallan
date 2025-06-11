@@ -23,7 +23,7 @@ Analyze historical asset performance for optimal hypothetical trades and behavio
 ## Portfolio Links
 - [computerscience.engineer](https://computerscience.engineer/)
 - [callansm.com](https://www.callansm.com)
-- [Fully Functional Website](https://smcallan.github.io/GPTBETA/index.html)
+- [Memory Service - best](https://smcallan.github.io/GPTBETA/index.html)
 
 ---
 
