@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bcd49b33-a03c-4ce4-9fa6-3d2ac4a6e9fa" width="400" alt="Coding Computer Science GIF by Squirrel Monkey" />
+  <img src="![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966](https://github.com/user-attachments/assets/63d590ad-07af-4e60-8670-f430f99be6f8)
+" width="400" alt="hehe" />
 </p>
 
 <h1 align="center">Callan SM (NUTELLA0NT0AST)</h1>
