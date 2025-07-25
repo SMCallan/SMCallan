@@ -1,6 +1,3 @@
-
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966](https://github.com/user-attachments/assets/81836b05-302e-4208-92ac-10689a9145c3)
-
 <h1 align="center">Callan SM (NUTELLA0NT0AST)</h1>
 
 Hi there! I'm Callan. I enjoy building web apps, experimenting with APIs, and sharing my projects with the community.
@@ -23,9 +20,9 @@ Analyze historical asset performance for optimal hypothetical trades and behavio
 - [computerscience.engineer](https://computerscience.engineer/)
 - [callansm.com](https://www.callansm.com)
 - [Memory Service - best](https://smcallan.github.io/GPTBETA/index.html)
-
 ---
-
+Security works:
+- [Weapons of character](https://github.com/SMCallan/WOC)
 <details>
 <summary>My long-form thoughts on AI & society</summary>
 
