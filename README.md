@@ -10,13 +10,40 @@
 
 A selection of work demonstrating my technical and strategic capabilities.
 
-| Project                                     | Description                                                                                             | Tech Stack                                                                                                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | A financial analysis tool to model historical trades, providing insights into asset performance and behavioral economics. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /> <img src="https://img.shields.io/badge/API-Integration-orange?style=for-the-badge" /> |
-| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | An interactive intelligence report visualizing the convergence of AI, space, and quantum computing in modern conflict. | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /> |
-| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. | <img src="https://img.shields.io/badge/Strategy-Analysis-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web_Design-5A29E4?style=for-the-badge" /> |
-| **[Weapons of Character](https://github.com/SMCallan/WOC)** | A security research project exploring character-based vulnerabilities and the importance of robust input sanitization. | <img src="https://img.shields.io/badge/Cyber_Security-E01D2B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| **[Memory Service](https://smcallan.github.io/GPTBETA/)** | An interactive web application exploring persistent memory and conversational context with AI language models. | <img src="https://img.shields.io/badge/AI_&_NLP-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| Project                                     | Description                                                                                             |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | A financial analysis tool to model historical trades, providing insights into asset performance and behavioral economics. |
+| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | An interactive intelligence report visualizing the convergence of AI, space, and quantum computing in modern conflict. |
+| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. |
+| **[Weapons of Character](https://github.com/SMCallan/WOC)** | A security research project exploring character-based vulnerabilities and the importance of robust input sanitization. |
+| **[Memory Service](https://smcallan.github.io/GPTBETA/)** | An interactive web application exploring persistent memory and conversational context with AI language models. |
+
+---
+
+### 💡 Expertise & Interests
+
+My capabilities range from hands-on engineering and security implementation to high-level strategic advisory.
+
+#### Technical Proficiencies
+| Area                  | Skills & Technologies                                                                                                                                                                                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend & Design** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Backend & Data** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+| **Cloud & Mobile** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> |
+| **Security & AI** | <img src="https://img.shields.io/badge/Cyber_Security-E01D2B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic_AI-4A90E2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Encryption-00A86B?style=for-the-badge" /> |
+
+#### Strategic & Professional Expertise
+- **Qualifications:** M.Sc. in Computer Science.
+- **Leadership:** Campaign Strategy & Leadership, Team Development.
+- **Analysis:** Business & Systems Analysis, Organizational Psychology, Technology Policy.
+- **Development:** Full-stack Application Architecture, Secure Software Development Lifecycle (SDLC), Automation & Process Optimization (e.g., Power Automate).
+- **Core Principles:** Data Structures & Algorithms (DSA), Advanced Computer Networking.
+
+#### Core Research & Interests
+- **Future Technology:** Quantum Computing, Agentic AI Development vs. Classical Engineering, Deepfake Detection.
+- **Strategy & Ethics:** Modern Political & Ethical Frameworks, Digital Sovereignty, Strategic Communications.
+- **Human Systems:** Cognitive & Organizational Psychology, Human Potential & Cognitive Optimization.
+- **Foundational Science:** Advanced Mathematics, R&D Methodologies.
 
 <br>
 
