@@ -24,7 +24,7 @@ Analyze historical asset performance for optimal hypothetical trades and behavio
 Security works:
 - [Weapons of character](https://github.com/SMCallan/WOC)
 - [The Convergent Edge](https://smcallan.github.io/secret_states/#ai-core)
-- [The-Chimera-Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)
+- [The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/) [Chimera Infographic](https://smcallan.github.io/Chimera-INFO/)
 <details>
 <summary>My long-form thoughts on AI & society</summary>
 
