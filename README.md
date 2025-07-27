@@ -3,23 +3,6 @@
 > A technologist focused on the intersection of Software Engineering, Cyber Security, and Digital Ethics. I build secure, efficient web applications and advise on the strategic implications of emerging technology.
 
 [<img src="https://img.shields.io/badge/Website-computerscience.engineer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwYTExLjk5IDEyIDAgMCAwLTEyIDEyYTExLjk5IDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDAtMjRtMCAyMC44MmE4LjgzIDguODMgMCAwIDEtOC44Mi04LjgzQTguODMgOC44MyAwIDAgMSAxMiAzLjEzYTguODIgOC44MiAwIDAgMSA4LjgyIDguODMgOC44MyA4LjgzIDAgMCAxLTguODIgOC44M1oiLz48cGF0aCBkPSJNMTIgMGEyOC44OCAyOC44OCAwIDAgMC0xLjc0IDI0aDMuNDhBMTguOTEgMTguOTEgMCAwIDAgMTIgMFoiLz48L3N2Zz4=" />](https://computerscience.engineer/)
-[<img src="https://img.shields.io/badge/Website-callansm.com-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwYTExLjk5IDEyIDAgMCAwLTEyIDEyYTExLjk5IDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDAtMjRtMCAyMC44MmE4LjgzIDguODMgMCAwIDEtOC44Mi04LjgzQTguODMgOC44MyAwIDAgMSAxMiAzLjEzYTguODIgOC44MiAwIDAgMSA4LjgyIDguODMgOC44MyA4LjgzIDAgMCAxLTguODIgOC44M1oiLz48cGF0aCBkPSJNMTIgMGEyOC44OCAyOC44OCAwIDAgMC0xLjc0IDI0aDMuNDhBMTguOTEgMTguOTEgMCAwIDAgMTIgMFoiLz48L3N2Zz4=" />](https://www.callansm.com)
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/smcallan/)
-
-
----
-
-### 🧠 Core Competencies & Technologies
-
-My work spans the full development lifecycle, from conceptual strategy to secure deployment.
-
-| Area                       | Technologies & Skills                                                                         |
-| -------------------------- | --------------------------------------------------------------------------------------------- |
-| **Languages & Scripting** | `JavaScript (ES6+)` `HTML5` `CSS3` `Python` `SQL` `LaTeX`                                     |
-| **Frameworks & Libraries** | `Node.js` `React` `Tailwind CSS` `Chart.js`                                                   |
-| **Cyber Security** | `Web Security Principles` `Threat Modeling` `Penetration Testing Concepts` `Secure SDLC`        |
-| **Strategy & Ethics** | `AI Ethics & Governance` `Digital Sovereignty` `Technology Policy Analysis` `Systems Thinking`  |
-| **Tools & Platforms** | `Git` `GitHub` `Docker` `Nginx` `VS Code` `Postman`                                             |
 
 ---
 
@@ -27,13 +10,13 @@ My work spans the full development lifecycle, from conceptual strategy to secure
 
 A selection of work demonstrating my technical and strategic capabilities.
 
-| Project                                     | Description                                                                                             | Technologies Used                                     |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | A financial analysis tool to model historical trades, providing insights into asset performance and behavioral economics. | `HTML` `JavaScript` `Chart.js` `API Integration`      |
-| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | An interactive intelligence report visualizing the convergence of AI, space, and quantum computing in modern conflict. | `HTML` `Tailwind CSS` `Chart.js` `JavaScript`       |
-| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. | `Web Design` `Strategic Comms`                        |
-| **[Weapons of Character](https://github.com/SMCallan/WOC)** | A security research project exploring character-based vulnerabilities and input sanitization techniques. | `Security Research` `Python` `Data Analysis`          |
-| **[Poetry Portal](https://smcallan.github.io/PoetryDB-API/)** | A clean interface for the PoetryDB API, allowing users to discover poetry through search and random discovery. | `JavaScript` `API Consumption` `Web Apps`           |
+| Project                                     | Description                                                                                             | Tech Stack                                                                                                                                                             |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | A financial analysis tool to model historical trades, providing insights into asset performance and behavioral economics. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /> <img src="https://img.shields.io/badge/API-Integration-orange?style=for-the-badge" /> |
+| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | An interactive intelligence report visualizing the convergence of AI, space, and quantum computing in modern conflict. | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /> |
+| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. | <img src="https://img.shields.io/badge/Strategy-Analysis-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web_Design-5A29E4?style=for-the-badge" /> |
+| **[Weapons of Character](https://github.com/SMCallan/WOC)** | A security research project exploring character-based vulnerabilities and the importance of robust input sanitization. | <img src="https://img.shields.io/badge/Cyber_Security-E01D2B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| **[Memory Service](https://smcallan.github.io/GPTBETA/)** | An interactive web application exploring persistent memory and conversational context with AI language models. | <img src="https://img.shields.io/badge/AI_&_NLP-4285F4?style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
 
 <br>
 
