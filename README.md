@@ -14,7 +14,7 @@ A curated selection of projects demonstrating expertise in security, strategy, a
 | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | Strategic Intelligence & Data Visualization | An interactive report visualizing the convergence of AI, space, and quantum computing in modern intelligence and conflict. |
 | **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | Hybrid Threat Analysis & Communications    | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. |
-| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | Financial Data & Behavioral Analysis       | A tool to model historical trades, providing insights into asset performance, market timing, and behavioral economics. |
+| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** | Financial Data & Behavioral Analysis       | A tool to model historical trades, providing insights into asset performance, market timing, and behavioral economics. |
 | **[Weapons of Character](https://github.com/SMCallan/WOC)** | Cyber Security Research                    | A research project exploring character-based vulnerabilities, fuzzing techniques, and the importance of robust input sanitization. |
 
 ---
