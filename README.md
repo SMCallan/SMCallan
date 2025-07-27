@@ -1,6 +1,6 @@
 <h1 align="center">Callan SM (NUTELLA0NT0AST)</h1>
 
-Hi there! I'm Callan. I enjoy building web apps, experimenting with APIs, and sharing my projects with the community.
+Hi there! I'm Callan. Here you find, I enjoy building web apps, experimenting with APIs, and sharing my projects with the community.
 
 ## Featured Projects
 
