@@ -1,37 +1,23 @@
 # Callan Smith MacDonald
 
-> A technologist focused on the intersection of Software Engineering, Cyber Security, and Digital Ethics. I build secure, efficient web applications and advise on the strategic implications of emerging technology.
+> A technologist operating at the nexus of software engineering, cyber security, and digital ethics. My focus is on architecting resilient systems and developing strategies that account for the most complex variable: human behaviour.
 
 [<img src="https://img.shields.io/badge/Website-computerscience.engineer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2xvYmU8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwYTExLjk5IDEyIDAgMCAwLTEyIDEyYTExLjk5IDEyIDAgMCAwIDEyIDEyIDEyIDEyIDAgMCAwIDAtMjRtMCAyMC44MmE4LjgzIDguODMgMCAwIDEtOC44Mi04LjgzQTguODMgOC44MyAwIDAgMSAxMiAzLjEzYTguODIgOC44MiAwIDAgMSA4LjgyIDguODMgOC44MyA4LjgzIDAgMCAxLTguODIgOC44M1oiLz48cGF0aCBkPSJNMTIgMGEyOC44OCAyOC44OCAwIDAgMC0xLjc0IDI0aDMuNDhBMTguOTEgMTguOTEgMCAwIDAgMTIgMFoiLz48L3N2Zz4=" />](https://computerscience.engineer/)
 
 ---
 
-### 🚀 Strategic Showcase
+### Core Domains of Practice
 
-A curated selection of projects demonstrating expertise in security, strategy, and data-driven analysis.
+My work is centered on three interconnected domains:
 
-| Project                                     | Focus Area                                 | Description                                                                                             |
-| ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | Strategic Intelligence & Data Visualization | An interactive report visualizing the convergence of AI, space, and quantum computing in modern intelligence and conflict. |
-| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | Hybrid Threat Analysis & Communications    | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. |
-| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** | Financial Data & Behavioral Analysis       | A tool to model historical trades, providing insights into asset performance, market timing, and behavioral economics. |
-| **[Weapons of Character](https://github.com/SMCallan/WOC)** | Cyber Security Research                    | A research project exploring character-based vulnerabilities, fuzzing techniques, and the importance of robust input sanitization. |
+1.  **Secure Systems Engineering**
+    * I build defensible and resilient software with a security-first methodology. This involves full-lifecycle threat modeling, secure coding practices, and conducting research into novel vulnerabilities. My public research includes analysis like **[Weapons of Character](https://github.com/SMCallan/WOC)**, which explores the risks of character-based exploits.
 
----
+2.  **Digital Strategy & Intelligence**
+    * I analyze the strategic landscape of emerging technology to inform decision-making. This includes developing frameworks for understanding hybrid threats and visualizing complex data to reveal underlying trends. My public analyses, such as **[The Convergent Edge](https://smcallan.github.io/secret_states/)** and **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)**, are examples of this practice.
 
-### 💡 Technical Skills & Professional Expertise
-
-#### Technical Proficiencies
-- **Languages:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-- **Frameworks & Libraries:** <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-- **Cloud, DevOps & Infrastructure:** <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-- **Automation & Security:** <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" /> <img src="https://img.shields.io/badge/Cyber_Security-E01D2B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge" />
-
-#### Professional & Academic Foundations
-- **Qualifications:** M.Sc. in Computer Science
-- **Strategic Expertise:** Campaign Strategy & Leadership, Technology Policy Analysis, Business & Systems Analysis, Technical Documentation.
-- **Psychology:** Organizational & Human Psychology, Cognitive Optimization, Interpersonal Growth Dynamics.
-- **Core Disciplines:** Data Structures & Algorithms (DSA), Agile/Scrum Methodologies, Research & Development (R&D).
+3.  **Human-Centric Security & Analysis**
+    * Leveraging a foundation in Psychology (BSc) and Computer Science (MSc), I analyze the human element in digital systems. This includes exploring the behavioral economics of market decisions, as demonstrated in the **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** analysis tool, and understanding the cognitive biases that create vulnerabilities in organizations and individuals.
 
 ---
 <br>
