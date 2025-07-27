@@ -6,19 +6,16 @@
 
 ---
 
-### 🚀 Featured Project Showcase
+### 🚀 Strategic Showcase
 
-A selection of applications demonstrating full-stack, security, and strategic communication skills.
+A curated selection of projects demonstrating expertise in security, strategy, and data-driven analysis.
 
-| Project                                     | Description                                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **[HMCTS Task Manager](#)** (Full-Stack)      | A full-stack CRUD application built for the HMCTS technical test, featuring a React/TypeScript frontend and a Node.js/PostgreSQL backend. |
-| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 (Finance App)   | A financial analysis tool to model historical trades, providing insights into asset performance and behavioral economics. |
-| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** (Strategy)     | An interactive intelligence report visualizing the convergence of AI, space, and quantum computing in modern conflict. |
-| **[Weapons of Character](https://github.com/SMCallan/WOC)** (Security)   | A security research project exploring character-based vulnerabilities and the importance of robust input sanitization. |
-| **[Poetry Portal](https://smcallan.github.io/PoetryDB-API/)** (API App)         | An interface for PoetryDB, allowing users to discover poetry through search, author, or random verse functionality. |
-| **[Weather Now](https://smcallan.github.io/GITGUD/)** (API App)           | A clean, direct weather application that provides local forecasts by integrating with a third-party weather API. |
-| **[Metal Lugz](https://smcallan.github.io/METAL_SLUG/)** (Game App) | A tribute to the classic arcade game, built with vanilla JavaScript to explore browser-based game mechanics and rendering. |
+| Project                                     | Focus Area                                 | Description                                                                                             |
+| ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **[The Convergent Edge](https://smcallan.github.io/secret_states/)** | Strategic Intelligence & Data Visualization | An interactive report visualizing the convergence of AI, space, and quantum computing in modern intelligence and conflict. |
+| **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** | Hybrid Threat Analysis & Communications    | A strategic framework and [infographic](https://smcallan.github.io/Chimera-INFO/) detailing hybrid threats and multi-domain operations. |
+| **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** 📈 | Financial Data & Behavioral Analysis       | A tool to model historical trades, providing insights into asset performance, market timing, and behavioral economics. |
+| **[Weapons of Character](https://github.com/SMCallan/WOC)** | Cyber Security Research                    | A research project exploring character-based vulnerabilities, fuzzing techniques, and the importance of robust input sanitization. |
 
 ---
 
