@@ -40,7 +40,7 @@ This domain showcases the practical application of core programming languages an
 -  [Python for Forensic Tooling](https://smcallan.github.io/Python-for-Forensic-Tooling/)
 -  [High-Performance Systems with Rust & Go](https://smcallan.github.io/High-Performance-Systems-with-Rust-Go/)
 -  [Mobile Platform Data Acquisition](https://smcallan.github.io/Mobile-Platform-Data-Acquisition/)
-- `[In Progress]` [Interactive Data Dashboards with React](#)
+-  [Interactive Data Dashboards with React](https://smcallan.github.io/-Interactive-Data-Dashboards-with-React/)
 
 #### **3. Offensive Security & Digital Forensics**
 This area delves into the core techniques of cyber security from both an offensive and investigative perspective. It covers the methods used to analyse systems, understand vulnerabilities, and apply digital forensic principles to ensure evidence is acquired in a methodologically sound manner.
