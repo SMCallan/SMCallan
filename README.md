@@ -19,14 +19,56 @@ My work is centered on three interconnected domains:
 3.  **Human-Centric Security & Analysis**
     * Leveraging a foundation in Psychology (BSc) and Computer Science (MSc), I analyze the human element in digital systems. This includes exploring the behavioral economics of market decisions, as demonstrated in the **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** analysis tool, and understanding the cognitive biases that create vulnerabilities in organizations and individuals.
 
-4.  **Engineering for Intelligence: Code, Systems, and The Law**
+# Engineering for Intelligence: Code, Systems, and The Law
 
-**Software Engineering & Development Methodologies**
--  [Agile LE Tool Development](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)
-- [Code as Evidence](https://smcallan.github.io/Code-as-Evidence/)
-- [SSDLC](https://smcallan.github.io/SSDLC-Security-Throughout-Development/)
-- [Secure Git](https://smcallan.github.io/Version-Control-Strategy-with-Git-for-Sensitive-Projects/)
+A portfolio of research and practical demonstrations exploring the technologies, methodologies, and legal frameworks essential for developing modern digital investigation capabilities. Each topic is presented as an interactive webpage.
 
+---
+
+### **1. Secure & Agile Development Lifecycles**
+This section explores the foundational principles for building robust, reliable, and secure software. It focuses on the 'how' of professional development, from applying agile frameworks in high-stakes environments to ensuring code quality and maintaining secure version control for sensitive projects.
+
+- [Agile LE Tool Development](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)
+- [Code as Evidence: TDD for Defensible Tools](https://smcallan.github.io/Code-as-Evidence/)
+- [Security Throughout Development (SSDLC)](https://smcallan.github.io/SSDLC-Security-Throughout-Development/)
+- [Secure Git for Sensitive Projects](https://smcallan.github.io/Version-Control-Strategy-with-Git-for-Sensitive-Projects/)
+
+---
+
+### **2. Core Technologies for Application Development**
+This domain showcases the practical application of core programming languages and frameworks to build functional, operational tools. It covers everything from rapid prototyping in Python to high-performance systems programming and building interactive user interfaces for data visualisation.
+
+- [Python for Forensic Tooling](#)
+- [High-Performance Systems with Rust & Go](#)
+- [Mobile Platform Data Acquisition](#)
+- [Interactive Data Dashboards with React](#)
+
+---
+
+### **3. Offensive Security & Digital Forensics**
+This area delves into the core techniques of cyber security from both an offensive and investigative perspective. It covers the methods used to analyse systems, understand vulnerabilities, and apply digital forensic principles to ensure evidence is acquired in a methodologically sound manner.
+
+- [Fundamentals of Reverse Engineering](#)
+- [Exploitation & Pen-Testing Techniques](#)
+- [The Digital Forensics Process](#)
+
+---
+
+### **4. Platform Engineering: Automation, Infrastructure & Data**
+This section focuses on the systems that support modern software development and data processing at scale. It explores platform engineering concepts like infrastructure automation, secure containerisation, CI/CD pipelines, and the architecture of big data systems for handling large volumes of investigative data.
+
+- [Infrastructure as Code (IaC) with Terraform](#)
+- [Secure Containerisation with Docker](#)
+- [Automated CI/CD Pipelines with Jenkins](#)
+- [Real-time Data Processing with Kafka & Spark](#)
+- [Investigative Database Design: SQL vs. NoSQL](#)
+
+---
+
+### **5. The UK Legal Framework for Digital Investigation**
+This domain covers the critical legal and compliance frameworks that govern technical operations within UK law enforcement. It demonstrates an understanding of how legislation directly shapes the design, development, and deployment of investigative tools, ensuring all capabilities are used in a manner that is necessary, proportionate, and lawful.
+
+- [The Investigatory Powers Act (2016)](#)
 ---
 <br>
 
