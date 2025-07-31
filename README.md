@@ -21,11 +21,11 @@ My work is centered on three interconnected domains:
 
 4.  **Engineering for Intelligence: Code, Systems, and The Law**
 
-   * **Software Engineering & Development Methodologies**
-    * [Agile LE Tool Development](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)
-    * [Code as Evidence](https://smcallan.github.io/Code-as-Evidence/)
-    * [SSDLC](https://smcallan.github.io/SSDLC-Security-Throughout-Development/)
-    * [Secure Git](https://smcallan.github.io/Version-Control-Strategy-with-Git-for-Sensitive-Projects/)
+* **Software Engineering & Development Methodologies**
+-  [Agile LE Tool Development](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)
+- [Code as Evidence](https://smcallan.github.io/Code-as-Evidence/)
+- [SSDLC](https://smcallan.github.io/SSDLC-Security-Throughout-Development/)
+- [Secure Git](https://smcallan.github.io/Version-Control-Strategy-with-Git-for-Sensitive-Projects/)
 
 ---
 <br>
