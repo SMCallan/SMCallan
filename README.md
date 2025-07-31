@@ -19,6 +19,9 @@ My work is centered on three interconnected domains:
 3.  **Human-Centric Security & Analysis**
     * Leveraging a foundation in Psychology (BSc) and Computer Science (MSc), I analyze the human element in digital systems. This includes exploring the behavioral economics of market decisions, as demonstrated in the **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** analysis tool, and understanding the cognitive biases that create vulnerabilities in organizations and individuals.
 
+4a.   **Software Engineering & Development Methodologies**
+   * TBC
+
 ---
 <br>
 
