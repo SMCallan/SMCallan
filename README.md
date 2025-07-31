@@ -37,7 +37,7 @@ This section explores the foundational principles for building robust, reliable,
 #### **2. Core Technologies for Application Development**
 This domain showcases the practical application of core programming languages and frameworks to build functional, operational tools. It covers everything from rapid prototyping in Python to high-performance systems programming and building interactive user interfaces for data visualisation.
 
-- `[In Progress]` [Python for Forensic Tooling](#)
+-  [Python for Forensic Tooling](https://smcallan.github.io/Python-for-Forensic-Tooling/)
 - `[In Progress]` [High-Performance Systems with Rust & Go](#)
 - `[In Progress]` [Mobile Platform Data Acquisition](#)
 - `[In Progress]` [Interactive Data Dashboards with React](#)
