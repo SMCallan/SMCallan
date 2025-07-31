@@ -38,7 +38,7 @@ This section explores the foundational principles for building robust, reliable,
 This domain showcases the practical application of core programming languages and frameworks to build functional, operational tools. It covers everything from rapid prototyping in Python to high-performance systems programming and building interactive user interfaces for data visualisation.
 
 -  [Python for Forensic Tooling](https://smcallan.github.io/Python-for-Forensic-Tooling/)
-- `[In Progress]` [High-Performance Systems with Rust & Go](#)
+-  [High-Performance Systems with Rust & Go](https://smcallan.github.io/High-Performance-Systems-with-Rust-Go/)
 - `[In Progress]` [Mobile Platform Data Acquisition](#)
 - `[In Progress]` [Interactive Data Dashboards with React](#)
 
