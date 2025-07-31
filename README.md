@@ -6,26 +6,27 @@
 
 ---
 
-### Core Domains of Practice
+## Professional Philosophy & Core Domains
 
-My work is centered on three interconnected domains:
+My work is guided by a commitment to three interconnected domains. I believe that truly effective technical solutions emerge only from a synthesis of robust engineering, strategic foresight, and a deep understanding of human factors.
 
-1.  **Secure Systems Engineering**
-    * I build defensible and resilient software with a security-first methodology. This involves full-lifecycle threat modeling, secure coding practices, and conducting research into novel vulnerabilities. My public research includes analysis like **[Weapons of Character](https://github.com/SMCallan/WOC)**, which explores the risks of character-based exploits.
+- **Secure Systems Engineering:** Building defensible and resilient software with a security-first methodology. This involves full-lifecycle threat modeling, secure coding practices, and proactive vulnerability research.
 
-2.  **Digital Strategy & Intelligence**
-    * I analyze the strategic landscape of emerging technology to inform decision-making. This includes developing frameworks for understanding hybrid threats and visualizing complex data to reveal underlying trends. My public analyses, such as **[The Convergent Edge](https://smcallan.github.io/secret_states/)** and **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)**, are examples of this practice.
+- **Digital Strategy & Intelligence:** Analyzing the strategic landscape of emerging technology to inform decision-making, develop frameworks for understanding hybrid threats, and visualize complex data to reveal underlying trends.
 
-3.  **Human-Centric Security & Analysis**
-    * Leveraging a foundation in Psychology (BSc) and Computer Science (MSc), I analyze the human element in digital systems. This includes exploring the behavioral economics of market decisions, as demonstrated in the **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** analysis tool, and understanding the cognitive biases that create vulnerabilities in organizations and individuals.
-
-# Engineering for Intelligence: Code, Systems, and The Law
-
-A portfolio of research and practical demonstrations exploring the technologies, methodologies, and legal frameworks essential for developing modern digital investigation capabilities. Each topic is presented as an interactive webpage.
+- **Human-Centric Security:** Leveraging a foundation in Psychology and Computer Science to analyze the human element in digital systems—from the cognitive biases that create vulnerabilities to the behavioral economics that drive markets.
 
 ---
 
-### **1. Secure & Agile Development Lifecycles**
+## Portfolio & Technical Deep Dives
+
+The following projects represent the practical application of my core philosophy.
+
+### Featured Deep Dive: Engineering for Intelligence
+
+This portfolio explores the technologies, methodologies, and legal frameworks essential for developing modern digital investigation capabilities. It serves as a comprehensive case study in building specialized, high-stakes technical solutions. Each topic is presented as an interactive webpage.
+
+#### **1. Secure & Agile Development Lifecycles**
 This section explores the foundational principles for building robust, reliable, and secure software. It focuses on the 'how' of professional development, from applying agile frameworks in high-stakes environments to ensuring code quality and maintaining secure version control for sensitive projects.
 
 - [Agile LE Tool Development](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)
@@ -33,45 +34,47 @@ This section explores the foundational principles for building robust, reliable,
 - [Security Throughout Development (SSDLC)](https://smcallan.github.io/SSDLC-Security-Throughout-Development/)
 - [Secure Git for Sensitive Projects](https://smcallan.github.io/Version-Control-Strategy-with-Git-for-Sensitive-Projects/)
 
----
-
-### **2. Core Technologies for Application Development**
+#### **2. Core Technologies for Application Development**
 This domain showcases the practical application of core programming languages and frameworks to build functional, operational tools. It covers everything from rapid prototyping in Python to high-performance systems programming and building interactive user interfaces for data visualisation.
 
-- [Python for Forensic Tooling](#)
-- [High-Performance Systems with Rust & Go](#)
-- [Mobile Platform Data Acquisition](#)
-- [Interactive Data Dashboards with React](#)
+- `[In Progress]` [Python for Forensic Tooling](#)
+- `[In Progress]` [High-Performance Systems with Rust & Go](#)
+- `[In Progress]` [Mobile Platform Data Acquisition](#)
+- `[In Progress]` [Interactive Data Dashboards with React](#)
 
----
-
-### **3. Offensive Security & Digital Forensics**
+#### **3. Offensive Security & Digital Forensics**
 This area delves into the core techniques of cyber security from both an offensive and investigative perspective. It covers the methods used to analyse systems, understand vulnerabilities, and apply digital forensic principles to ensure evidence is acquired in a methodologically sound manner.
 
-- [Fundamentals of Reverse Engineering](#)
-- [Exploitation & Pen-Testing Techniques](#)
-- [The Digital Forensics Process](#)
+- `[In Progress]` [Fundamentals of Reverse Engineering](#)
+- `[In Progress]` [Exploitation & Pen-Testing Techniques](#)
+- `[In Progress]` [The Digital Forensics Process](#)
 
----
-
-### **4. Platform Engineering: Automation, Infrastructure & Data**
+#### **4. Platform Engineering: Automation, Infrastructure & Data**
 This section focuses on the systems that support modern software development and data processing at scale. It explores platform engineering concepts like infrastructure automation, secure containerisation, CI/CD pipelines, and the architecture of big data systems for handling large volumes of investigative data.
 
-- [Infrastructure as Code (IaC) with Terraform](#)
-- [Secure Containerisation with Docker](#)
-- [Automated CI/CD Pipelines with Jenkins](#)
-- [Real-time Data Processing with Kafka & Spark](#)
-- [Investigative Database Design: SQL vs. NoSQL](#)
+- `[In Progress]` [Infrastructure as Code (IaC) with Terraform](#)
+- `[In 'Progress]` [Secure Containerisation with Docker](#)
+- `[In Progress]` [Automated CI/CD Pipelines with Jenkins](#)
+- `[In Progress]` [Real-time Data Processing with Kafka & Spark](#)
+- `[In Progress]` [Investigative Database Design: SQL vs. NoSQL](#)
 
----
-
-### **5. The UK Legal Framework for Digital Investigation**
+#### **5. The UK Legal Framework for Digital Investigation**
 This domain covers the critical legal and compliance frameworks that govern technical operations within UK law enforcement. It demonstrates an understanding of how legislation directly shapes the design, development, and deployment of investigative tools, ensuring all capabilities are used in a manner that is necessary, proportionate, and lawful.
 
-- [The Investigatory Powers Act (2016)](#)
----
+- `[In Progress]` [The Investigatory Powers Act (2016)](#)
+
 <br>
 
+### Additional Analyses & Projects
+
+- **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)**: An analysis tool demonstrating how behavioral economics and cognitive biases can be modeled in market decisions.
+- **[The Convergent Edge](https://smcallan.github.io/secret_states/)** & **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)**: Strategic analyses and data visualizations exploring hybrid threats and geopolitical tech trends.
+- **[Weapons of Character (WOC)](https://github.com/SMCallan/WOC)**: Public research and proof-of-concept exploring the security risks of non-standard character and string-based exploits.
+
+---
+
+## Perspectives on Technology & Society
+<br>
 <details>
 <summary><strong>The Digital Crossroads</strong> — My long-form analysis of AI, economics, and society.</summary>
 <br>
