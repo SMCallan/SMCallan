@@ -39,7 +39,7 @@ This domain showcases the practical application of core programming languages an
 
 -  [Python for Forensic Tooling](https://smcallan.github.io/Python-for-Forensic-Tooling/)
 -  [High-Performance Systems with Rust & Go](https://smcallan.github.io/High-Performance-Systems-with-Rust-Go/)
-- `[In Progress]` [Mobile Platform Data Acquisition](#)
+-  [Mobile Platform Data Acquisition](https://smcallan.github.io/Mobile-Platform-Data-Acquisition/)
 - `[In Progress]` [Interactive Data Dashboards with React](#)
 
 #### **3. Offensive Security & Digital Forensics**
