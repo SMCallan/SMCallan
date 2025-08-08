@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url-here" alt="Callan Smith MacDonald - Technologist" width="100%">
+  <img src="[https://your-banner-image-url-here](https://github.com/SMCallan/SMCallan/blob/main/ChatGPT%20Image%20Aug%208%2C%202025%20at%2008_22_51%20PM.png)" alt="Callan Smith MacDonald - Technologist" width="100%">
 </p>
 
 <!-- Headline & Badges -->
