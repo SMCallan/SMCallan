@@ -19,8 +19,8 @@
 
 ---
 
-## 🎓 **Academic Foundation**: Psychology & Computer Science
-
+## 🎓 **Academic Foundation**: 
+Psychology & Computer Science
 
 ---
 
