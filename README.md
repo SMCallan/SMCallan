@@ -20,8 +20,6 @@
 ---
 
 ## 📌 Quick Snapshot
-- 🎯 **Core Expertise**: Secure Systems Engineering, Digital Strategy, Human-Centric Security
-- 🛠 **Tech Stack**: Python • Rust • Go • JavaScript (React) • SQL/NoSQL • Docker • Terraform
 - 🎓 **Academic Foundation**: Psychology & Computer Science
 - 🔒 **Special Interests**: Threat Modelling, Hybrid Threat Intelligence, Digital Investigation Frameworks
 
@@ -30,41 +28,6 @@
 ## 💡 Professional Philosophy
 > A technologist operating at the nexus of software engineering, cyber security, and digital ethics.  
 > My focus is on architecting resilient systems and developing strategies that account for the most complex variable: **human behaviour**.
-
----
-
-## 🚀 Featured Portfolio & Deep Dives
-
-### **🔐 Secure & Agile Development Lifecycles**
-[![Agile LE Tool Development](https://img.shields.io/badge/View-Agile%20LE%20Tool%20Development-blue?style=flat-square)](https://smcallan.github.io/Agile-Law-Enforcement-Tool-Development/)  
-- Agile frameworks for high-stakes environments  
-- Security-first development & defensible coding
-
----
-
-### **⚙ Core Technologies for Application Development**
-[![Python Forensic Tooling](https://img.shields.io/badge/View-Python%20Forensic%20Tooling-blue?style=flat-square)](https://smcallan.github.io/Python-for-Forensic-Tooling/)  
-- Python for rapid prototyping forensic tools  
-- High-performance Rust & Go systems  
-- Interactive React data dashboards
-
----
-
-### **🛡 Offensive Security & Digital Forensics**
-- `[In Progress]` Fundamentals of Reverse Engineering  
-- `[In Progress]` Exploitation & Pen Testing Techniques  
-- `[In Progress]` Digital Forensics Process
-
----
-
-<details>
-<summary><strong>📚 More Projects & Analyses</strong></summary>
-
-- **[Hindsight Trader Pro](https://smcallan.github.io/ChronoVest/)** — Behavioural economics & cognitive bias modelling in market decisions  
-- **[The Convergent Edge](https://smcallan.github.io/secret_states/)** & **[The Chimera Doctrine](https://smcallan.github.io/The-Chimera-Doctrine/)** — Strategic analyses on hybrid threats & geopolitics  
-- **[Weapons of Character (WOC)](https://github.com/SMCallan/WOC)** — Risks of non-standard character exploits
-
-</details>
 
 ---
 
