@@ -19,9 +19,8 @@
 
 ---
 
-## 📌 Quick Snapshot
-- 🎓 **Academic Foundation**: Psychology & Computer Science
-- 🔒 **Special Interests**: Threat Modelling, Hybrid Threat Intelligence, Digital Investigation Frameworks
+## 🎓 **Academic Foundation**: Psychology & Computer Science
+
 
 ---
 
