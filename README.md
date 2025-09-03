@@ -1,10 +1,5 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img width="1536" height="1024" alt="Profile Banner" src="https://github.com/user-attachments/assets/3682e779-021b-4ea2-b52f-27363d034e9f" />
-</p>
-
 <!-- Headline & Badges -->
-<h1 align="center">Callan Smith MacDonald</h1>
+<h1 align="center">Callan S.M.</h1>
 <p align="center">
   <em>Technologist • Cybersecurity Specialist • Digital Ethics Researcher</em>
 </p>
