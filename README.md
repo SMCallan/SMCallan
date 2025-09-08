@@ -1,10 +1,6 @@
 <h1 align="center">Callan S.M.</h1>
 <p align="center">
   <strong>Software Engineer focused on resilient systems, security, and digital ethics.</strong>
-</p>
-<p align="center">
-  <a href="https://computerscience.engineer/"><img src="https://img.shields.io/badge/Website-computerscience.engineer-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
 
 ---
 
