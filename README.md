@@ -1,6 +1,6 @@
 <h1 align="center">Callan S.M.</h1>
 <p align="center">
-  <strong>Software Engineer focused on resilient systems, security, and digital ethics.</strong>
+  <strong>Computer Scientist focused on SWEing, resilient systems, security, and digital ethics.</strong>
 
 ---
 
