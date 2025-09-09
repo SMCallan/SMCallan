@@ -24,6 +24,8 @@ Cyber Research Hub
 https://smcallan.github.io/Cyber-Research-Hub/
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4832208" style='border:none;'></iframe>
+
 <p align="center">
   © 2025 Callan S.M.
 </p>
