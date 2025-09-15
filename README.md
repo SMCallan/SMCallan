@@ -1,28 +1,42 @@
-<h1 align="center">Callan S.M.</h1>
-<p align="center">
-  <strong>Computer Scientist specialising in cyber security.</strong>
-</p>
+### Hi, I'm Callan 👋
 
----
+I'm a **Software Engineer** with a deep focus on **Cybersecurity** and applied research. I build robust, efficient solutions, primarily with Python, and have a passion for exploring the intersection of technology, security, and ethics.
 
-## About Me
+My approach is grounded in a Master's in Computer Science and professional experience in both building and securing software. I enjoy the entire process from initial research and prototyping to deployment and hardening.
 
-Starting with the academics **Computer Science (MSc)** and **Psychology (BSc)**, I approach technical challenges using a creative aproach, that blends a deep critical analysis of the problem, and breaking down complex details and systems, into smaller digestable components. I emphasise two distinct areas, software engineering and cyber security. From an engineering perspective, as well as a practical, knowledge and skills based approach. I build websites, applications, and perform security analyses and practice ethical hacking.
----
+-----
 
-## Core Focus
+### Core Principles
 
-- Software Engineering
-- Cyber Security
+  * 🔬 **Research & Learn:** I dive deep into new technologies and security concepts, believing that continuous learning is fundamental.
+  * 🛠️ **Build Pragmatically:** I focus on creating effective solutions using clean and simple tech stacks. I have an academic foundation in Java and C.
+  * 💡 **Explore & Experiment:** I enjoy experimenting with emerging tools and frameworks to discover practical, real-world applications.
 
----
-<img width="425" height="87" alt="Screenshot 2025-09-09 at 09 56 27" src="https://github.com/user-attachments/assets/b636ed97-aeae-42d0-8958-4e7111fbee7c" />
+-----
 
-Cyber Research Hub
+### Tech & Tools
 
-https://smcallan.github.io/Cyber-Research-Hub/
+|                |                                                                                                  |
+| :------------- | :----------------------------------------------------------------------------------------------- |
+| **Languages** | `Python` `Bash` `SQL` `Java` `C`                                                                 |
+| **Security** | `Penetration Testing Concepts` `Network Analysis` `OWASP Top 10` `Vulnerability Assessment`      |
+| **Tooling** | `Git` `Docker` `Wireshark` `Nmap` `Linux/Unix Systems`                                             |
+| **Deployment** | `CI/CD Concepts` `Cloud Service Fundamentals (AWS/GCP)` `PostgreSQL`                               |
 
----
-<p align="center">
-  © 2025 Callan S.M.
-</p>
+-----
+
+### Navigating My Repositories
+
+My public repositories are a mix of practical tools, research projects, and technical explorations. You are welcome to browse them to get a feel for my work. You will find:
+
+  * **Cybersecurity Tools & Scripts** written in Python.
+  * **Web Applications & Demos** that serve as OSINT hubs or proof-of-concepts.
+  * **Technical "Blueprints"** detailing research on security frameworks and methodologies.
+  * **Learning Resources** and curated lists on various tech topics.
+
+-----
+
+🌐 **Find Me Around the Web**
+
+[](https://tryhackme.com/p/KantStopMeNow)
+[](https://leetcode.com/u/lJIJkB1pNE/)
