@@ -43,26 +43,24 @@ My public repositories are a mix of practical tools, research projects, and tech
 [Leetcode: LC](https://leetcode.com/u/lJIJkB1pNE/)
 
 
-Of course, here is a much larger version for you.
 
-```
-                  calncalncalncalncalncaln
-              calncalncalncalncalncalncalncaln
-           calncalncaln                  calncaln
-         calncaln                        calncaln
-      calncaln
-    calncaln
-   calncaln
-  calncaln
- calncaln
- calncaln
-  calncaln
-   calncaln
-    calncaln
-      calncaln
-         calncaln                        calncaln
-           calncalncaln                  calncaln
-              calncalncalncalncalncalncalncaln
-                  calncalncalncalncalncaln
+```                                                                                     
+        CCCCCCCCCCCCC                  lllllll lllllll                                    
+     CCC::::::::::::C                  l:::::l l:::::l                                    
+   CC:::::::::::::::C                  l:::::l l:::::l                                    
+  C:::::CCCCCCCC::::C                  l:::::l l:::::l                                    
+ C:::::C       CCCCCC  aaaaaaaaaaaaa    l::::l  l::::l   aaaaaaaaaaaaa  nnnn  nnnnnnnn    
+C:::::C                a::::::::::::a   l::::l  l::::l   a::::::::::::a n:::nn::::::::nn  
+C:::::C                aaaaaaaaa:::::a  l::::l  l::::l   aaaaaaaaa:::::an::::::::::::::nn 
+C:::::C                         a::::a  l::::l  l::::l            a::::ann:::::::::::::::n
+C:::::C                  aaaaaaa:::::a  l::::l  l::::l     aaaaaaa:::::a  n:::::nnnn:::::n
+C:::::C                aa::::::::::::a  l::::l  l::::l   aa::::::::::::a  n::::n    n::::n
+C:::::C               a::::aaaa::::::a  l::::l  l::::l  a::::aaaa::::::a  n::::n    n::::n
+ C:::::C       CCCCCCa::::a    a:::::a  l::::l  l::::l a::::a    a:::::a  n::::n    n::::n
+  C:::::CCCCCCCC::::Ca::::a    a:::::a l::::::ll::::::la::::a    a:::::a  n::::n    n::::n
+   CC:::::::::::::::Ca:::::aaaa::::::a l::::::ll::::::la:::::aaaa::::::a  n::::n    n::::n
+     CCC::::::::::::C a::::::::::aa:::al::::::ll::::::l a::::::::::aa:::a n::::n    n::::n
+        CCCCCCCCCCCCC  aaaaaaaaaa  aaaallllllllllllllll  aaaaaaaaaa  aaaa nnnnnn    nnnnnn
+                                                                                          
 ```
 
