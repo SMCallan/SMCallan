@@ -1,7 +1,9 @@
 ### Hi, I'm 
+```
 ▄▖▄▖▖ ▖ ▄▖▖ ▖
 ▌ ▌▌▌ ▌ ▌▌▛▖▌
 ▙▖▛▌▙▖▙▖▛▌▌▝▌
+```
 
 
 I'm a **Software Engineer** with a deep focus on **Cybersecurity** and applied research. I build robust, efficient solutions, primarily with Python, and have a passion for exploring the intersection of technology, security, and ethics.
