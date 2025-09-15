@@ -10,7 +10,7 @@
                ░█                                                                                                                                                                                                                                                            
 ```
 
-# 👋 Hi, I’m Callan Smith MacDonald
+# 👋 Hi, I’m Callan
 
 🎯 **Software Engineer | Cybersecurity Specialist | Applied Researcher in Digital Ethics**  
 📍 United Kingdom | 📧 ask for my email | 🌐 [GitHub Profile](https://github.com/SMCallan)  
