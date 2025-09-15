@@ -7,8 +7,7 @@
 
 ## About Me
 
-With a background in both **Computer Science (MSc)** and **Psychology (BSc)**, I approach technical challenges with a deep understanding of the human factor. My work centres on building secure, robust systems that are mindful of their real-world, human context.
-
+Starting with the academics **Computer Science (MSc)** and **Psychology (BSc)**, I approach technical challenges using a creative aproach, that blends a deep critical analysis of the problem, and breaking down complex details and systems, into smaller digestable components. I emphasise two distinct areas, software engineering and cyber security. From an engineering perspective, as well as a practical, knowledge and skills based approach. I build websites, applications, and perform security analyses and practice ethical hacking.
 ---
 
 ## Core Focus
