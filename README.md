@@ -49,6 +49,6 @@ My public repositories are a mix of practical tools, research projects, and tech
 
 🌐 **Find Me Around the Web**
 
-[Try Hack Me: THM](https://tryhackme.com/p/KantStopMeNow)
+[TryHackMe](https://tryhackme.com/p/KantStopMeNow)
 
-[Leetcode: LC](https://leetcode.com/u/lJIJkB1pNE/)
+[Leetcode](https://leetcode.com/u/lJIJkB1pNE/)
