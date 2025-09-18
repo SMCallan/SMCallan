@@ -26,8 +26,9 @@ I focus on:
 - **Modernising legacy platforms** (e.g., reverse-engineering Assembly-era systems && beyond!).  
 - **Applied cybersecurity research**, including vulnerability analysis and ransomware defence.  
 - **Bridging technology and ethics**, ensuring systems are both robust and responsible.
-- **Atuomation & optimising processes**, desiging repeatable, verifiable solutions.  
+- **uAtomation & optimising processes**, desiging repeatable, verifiable solutions.  
 
+beep boop
 ---
 
 ## 🛠️ Tech Stack & Skills
