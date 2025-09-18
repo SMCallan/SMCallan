@@ -23,7 +23,7 @@ I’m a Software Engineer with an MSc in **Computer Science** and a background i
 
 I focus on:  
 - **Building secure, large-scale systems** with resilience and uptime guarantees (ideally >99.9%).  
-- **Modernising legacy platforms** (e.g., reverse-engineering Assembly-era systems).  
+- **Modernising legacy platforms** (e.g., reverse-engineering Assembly-era systems && beyond!).  
 - **Applied cybersecurity research**, including vulnerability analysis and ransomware defence.  
 - **Bridging technology and ethics**, ensuring systems are both robust and responsible.  
 
