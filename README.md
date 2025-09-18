@@ -31,7 +31,7 @@ I focus on:
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:** Python • Java • C++ • C • Bash • SQL • JavaScript (React.js) • Node && others
+**Languages:** Python • Java • C++ • C • Bash • SQL • JavaScript (React.js) • Node && others 
 **Security:** Penetration Testing • Network Analysis • OWASP Top 10 • Vulnerability Assessment  
 **Cloud & DevOps:** Docker • Git • CI/CD • Microsoft Azure • Google Cloud (GCP)  
 **Systems & Tools:** Wireshark • Nmap • PostgreSQL • Linux/Unix Systems  
