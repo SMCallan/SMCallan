@@ -22,7 +22,7 @@
 I’m a Software Engineer with an MSc in **Computer Science** and a background in **Psychology**, specialising in secure systems, applied cybersecurity, and research-driven engineering. My experience ranges from developing resilient backend systems for **national critical infrastructure** to creating modern data pipelines and dashboards for private industry.  
 
 I focus on:  
-- **Building secure, large-scale systems** with resilience and uptime guarantees (>99.9%).  
+- **Building secure, large-scale systems** with resilience and uptime guarantees (ideally >99.9%).  
 - **Modernising legacy platforms** (e.g., reverse-engineering Assembly-era systems).  
 - **Applied cybersecurity research**, including vulnerability analysis and ransomware defence.  
 - **Bridging technology and ethics**, ensuring systems are both robust and responsible.  
