@@ -19,27 +19,29 @@
 
 ## 🚀 About Me
 
-I’m a Software Engineer with an MSc in **Computer Science** and a background in **Psychology**, specialising in secure systems, applied cybersecurity, and research-driven engineering. My experience ranges from developing resilient backend systems for **national critical infrastructure** to creating modern data pipelines and dashboards for private industry.  
+I’m a Software Engineer with an MSc in **Computer Science** and a background in **Technologies and Psychology**, specialising in software engineering. My experience ranges from developing resilient backend systems for **national critical infrastructure** to creating modern data pipelines and dashboards for private industry, as well as bespoke cross platform applications.  
 
 I focus on:  
 - **Building secure, large-scale systems** with resilience and uptime guarantees (ideally >99.9%).  
 - **Modernising legacy platforms** (e.g., reverse-engineering Assembly-era systems && beyond!).  
 - **Applied cybersecurity research**, including vulnerability analysis and ransomware defence.  
-- **Bridging technology and ethics**, ensuring systems are both robust and responsible.  
+- **Bridging technology and ethics**, ensuring systems are both robust and responsible.
+- **Atuomation & optimising processes**, desiging repeatable, verifiable solutions.  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-
+Here is a taste of some technologies or concepts I have worked with in either a professional or academic capacity. While not an exhaustive list it gives a look at my experiences as a SWE with added Security specialism.
 **Languages:** Python • Java • C++ • C • Bash • SQL • JavaScript (React.js) • Node && others  
 **Security:** Penetration Testing • Network Analysis • OWASP Top 10 • Vulnerability Assessment  
-**Cloud & DevOps:** Docker • Git • CI/CD • Microsoft Azure • Google Cloud (GCP)  
-**Systems & Tools:** Wireshark • Nmap • PostgreSQL • Linux/Unix Systems  
+**Cloud & DevOps:** AWS • Git • CI/CD • Microsoft Azure • Google Cloud (GCP) && all that good stuff  
+**Systems & Tools:** Linux/Unix Systems • Windows / Mac • Computing • Networks • Internet • Hacking  
 **Engineering:** Distributed Systems • Secure Coding • API Design • Algorithms • System Hardening  
+I also stay relatively uptodate with AI research & technology.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Professional Projects
 
 🔐 **[Critical Infrastructure Resilience System](#)**  
 Resilient backend (Python/C++) with automated monitoring and recovery, ensuring >99.9% uptime.  
@@ -53,14 +55,11 @@ Automated Java/Python/SQL pipelines for real-time business intelligence with int
 🛡️ **[Cybersecurity Tools & Scripts](#)**  
 Python-based penetration testing tools, ransomware detection, and network defence scripts.  
 
-👉 More on my GitHub: [github.com/SMCallan](https://github.com/SMCallan)  
 
 ---
 
-## 🧑‍💻 Continuous Learning
-
-- 🕵️ **TryHackMe:** Active participant in cybersecurity labs and challenges → [Profile](https://tryhackme.com/p/KantStopMeNow)  
-- 🧮 **LeetCode:** Regular practice in algorithms and data structures → [Profile](https://leetcode.com/u/lJIJkB1pNE/)  
+## 🧑‍💻 Continuous Learning & Conferences
+Too long to go into but I attend many tech events in London & am continuing to learn every day.
 
 ---
 
@@ -72,4 +71,7 @@ Python-based penetration testing tools, ransomware detection, and network defenc
 - LeetCode: [My Profile](https://leetcode.com/u/lJIJkB1pNE/)  
 
 ---
-✨ *“Secure. Resilient. Ethical. Engineering at the intersection of technology and people.”*  
+✨ *“I have been compared to a wizard.”*  
+<img width="1024" height="1024" alt="Gemini_Generated_Image_pcvmcxpcvmcxpcvm" src="https://github.com/user-attachments/assets/b6e9349e-c96f-420d-9995-1eeefa7c0bc6" />
+
+
