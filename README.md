@@ -162,6 +162,6 @@ Here are some highlights of my work. Click to expand.
 ---
 
 <div align="center">
-  <h3>✨ <em>“I have been compared to a wizard.”</em> ✨</h3>
+  <h3>✨ <em>“It does not do to dwell on dreams and forget to code”</em> ✨</h3>
   <img width="500" alt="A glowing, abstract digital node network representing complex systems and AI." src="https://github.com/user-attachments/assets/b6e9349e-c96f-420d-9995-1eeefa7c0bc6" />
 </div>
