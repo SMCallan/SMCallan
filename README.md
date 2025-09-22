@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Hi, I'm Callan. I'm a Technologist & Computer Scienctist based in London. Most of my time is spent hacking and coding, with a primary focus on **Python**. My interests lie at the intersection of **Software Development**, **Cybersecurity**, and **Artificial Intelligence**, and I'm particularly fascinated by the capabilities of AI agents.
+Hi, I'm Callan. I'm a Technologist & Computer Scientist based in London. Most of my time is spent hacking and coding, with a primary focus on **Python**. My interests lie at the intersection of **Software Development**, **Cybersecurity**, and **Artificial Intelligence**, and I'm particularly fascinated by the capabilities of AI agents.
 
 I'm always working on something, whether it's building a new tool, breaking an old one, or just exploring emerging tech.
 
