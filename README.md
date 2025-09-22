@@ -9,11 +9,6 @@
                 ░█                                                                                         
                ░█                                                                                                                                                                                                                                                            
 ```
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
----
 
 ### 👋 About Me
 
@@ -32,3 +27,6 @@ My work and personal projects generally revolve around these areas:
 * 🔐 Conducting vulnerability research and reverse-engineering systems.
 * ☁️ Architecting and securing cloud-native infrastructure.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
