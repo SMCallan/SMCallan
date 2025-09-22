@@ -72,6 +72,6 @@ You can find me on these platforms.
 </div>
 
 <div align="center">
-  <h3>✨ <em>“I have been compared to a wizard.”</em> ✨</h3>
+  <h3>✨ <em>“I summon yee, GP3!.”</em> ✨</h3>
   <img width="500" alt="A glowing, abstract digital node network representing complex systems and AI." src="https://github.com/user-attachments/assets/b6e9349e-c96f-420d-9995-1eeefa7c0bc6" />
 </div>
