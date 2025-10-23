@@ -10,23 +10,46 @@
                ░█                                                                                                                                                                                                                                                            
 ```
 
-### 👋 About Me
+---
 
-Hi, I'm Callan. I'm a Technologist & Computer Scientist based in London. Most of my time is spent hacking and coding, with a primary focus on **Python**. My interests lie at the intersection of **Software Development**, **Cybersecurity**, and **Artificial Intelligence**, and I'm particularly fascinated by the capabilities of AI agents.
+### 👨‍💻 About Me
 
-I'm always working on something, whether it's building a new tool, breaking an old one, or just exploring emerging tech.
+I'm a Computer Scientist and Cybersecurity Practitioner with a unique background transitioning from frontline crisis management in the **NHS**.
+
+This experience gave me a deep appreciation for human-centric systems and safety-critical protocols, which I now apply to the world of technology. My work is focused on building and securing resilient systems, primarily using **Python**. My interests lie at the intersection of **Software Development**, **Ethical Hacking**, and **Artificial Intelligence**, where I enjoy creating tools that solve complex problems.
+
+I believe the best technology is built with a profound understanding of the people it serves.
 
 ---
 
-### 🔭 Current Focus & Interests
+### 🛠️ Core Competencies & Skills
 
-My work and personal projects generally revolve around these areas:
+My skill set bridges the gap between technical execution and human-centric strategy.
 
-* 🐍 Building (and breaking) applications, scripts, and tools with **Python**.
-* 🤖 Exploring automation and problem-solving with **AI agents**.
-* 🔐 Conducting vulnerability research and reverse-engineering systems.
-* ☁️ Architecting and securing cloud-native infrastructure.
+| Cybersecurity & Compliance | Development & Technical | Professional & Transferable |
+| :--- | :--- | :--- |
+| Risk Assessment & Mitigation | **Python (Fluent)** | Crisis Management |
+| Vulnerability Management | Full-Stack Development (React) | Stakeholder Communication |
+| Incident Response | Cloud Architecture (AWS, Azure) | Complex Problem-Solving |
+| Ethical Hacking (Purple Team) | Java & C++ | Safeguarding & Safety Protocols |
+| Security Policy & Frameworks | Docker & SQL | Project Leadership (Agile) |
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+---
+
+### 🔭 Current Focus & Projects
+
+I am always learning and building. My current focus revolves around:
+
+- 🐍 Engineering robust applications, scripts, and security tools with **Python**.
+- 🔐 Conducting vulnerability research and security testing on complex systems.
+- 🤖 Exploring automation and advanced problem-solving with **AI agents**.
+- ☁️ Architecting and securing scalable, cloud-native infrastructure.
+
+---
+
+### 📫 Connect with Me
+
+I'm always open to connecting with fellow tech enthusiasts and professionals. Feel free to reach out!
+
+- **LinkedIn**: [https://www.linkedin.com/in/callan-smith-macdonald-76b607386/](https://www.linkedin.com/in/callan-smith-macdonald-76b607386/)
+- **TryHackMe**: [https://tryhackme.com/p/YourProfile](https://tryhackme.com/p/YourProfile) *(Optional: Add your profile link)*
