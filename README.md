@@ -52,4 +52,4 @@ I am always learning and building. My current focus revolves around:
 I'm always open to connecting with fellow tech enthusiasts and professionals. Feel free to reach out!
 
 - **LinkedIn**: [https://www.linkedin.com/in/callan-smith-macdonald-76b607386/](https://www.linkedin.com/in/callan-smith-macdonald-76b607386/)
-- **TryHackMe**: [https://tryhackme.com/p/YourProfile](https://tryhackme.com/p/YourProfile) *(Optional: Add your profile link)*
+- **TryHackMe**: [https://tryhackme.com/p/KantStopMeNow](https://tryhackme.com/p/KantStopMeNow)
