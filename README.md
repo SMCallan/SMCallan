@@ -12,24 +12,26 @@
 
 ## 🏗️ Featured Architecture
 
-### 🇬🇧 Serverless DevSecOps Job Radar
-A stateful, fully automated CI/CD data pipeline that aggregates and serves live cybersecurity roles in London. Built entirely on serverless and edge compute technologies.
+### 🇬🇧 DevSecOps Market Intelligence Engine
+A high-performance, edge-computing application that transforms raw job board data into actionable market intel. This isn't just a list of jobs; it's a real-time statistical analysis of the London cybersecurity landscape.
 
 > [!IMPORTANT]  
-> **🔗 [View the Live Dashboard Here](https://my-job-board.pages.dev)**
+> **🔗 [Explore the Live Dashboard](https://my-job-board.pages.dev)**
 
 #### 🛠️ Core Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### ⚙️ The Data Pipeline
-How the system processes data from end-to-end:
+#### ⚙️ The Data Engine & Deliverables
+How the system delivers high-signal intelligence:
 
-1. **📥 Scrape:** A daily GitHub Action runs a Python script to pull jobs from the Adzuna & Reed APIs.
-2. **🧹 Filter:** Queries a Cloudflare D1 (SQLite) database to drop duplicates and save only fresh leads.
-3. **🔔 Alert:** Pushes new job alerts instantly to a private Discord webhook.
-4. **🚀 Serve:** A Cloudflare Worker API securely exposes the database to a fast, edge-hosted React (Vite) frontend.
+* **📥 Ingest:** Daily GitHub Actions trigger a Python pipeline to scrape 500+ roles from Adzuna & Reed APIs.
+* **🧹 Process:** Regex-based cleaning handles complex data formats (like trailing decimals) and normalizes records for a Cloudflare D1 (SQLite) backend.
+* **📊 Analyze:** A custom Cloudflare Worker API performs on-the-fly financial modeling—separating **Contract Day Rates** from **Permanent Salaries** to provide accurate market averages across the entire 14-day dataset.
+* **🎨 Experience:** A Vite + React frontend designed with a **"Trust & Clarity"** palette, specifically optimized for neurodivergent accessibility (ADHD, ASD, and Dyslexia-friendly chunking).
+* **⚡ Edge-Powered:** Real-time search and smart pagination handled at the edge for sub-100ms response times.
 
 ---
