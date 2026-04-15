@@ -15,7 +15,7 @@ A high-performance, edge-computing application that transforms raw job board dat
 > [!IMPORTANT]  
 > **🔗 [Explore the Live Dashboard](https://my-job-board.pages.dev)**
 > 
-> *Note: The repository for this engine is currently private to protect API integrations and data models. I am more than happy to provide a technical walkthrough of the source code and CI/CD pipelines upon request during interviews.*
+> *Note: The repository for this engine is currently private. I am more than happy to provide a technical walkthrough of the source code and CI/CD pipelines upon request.*
 
 #### 🛠️ Core Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
