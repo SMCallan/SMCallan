@@ -35,11 +35,6 @@ How the system delivers high-signal intelligence:
 
 ---
 
-## 🔬 Open Source & Security Research
-*(Make sure to manually pin 2-3 of your best **public** repositories to your profile so they appear right below your README. For example, your `Python-for-Forensic-Tooling` or any original vulnerability research).*
-
----
-
 > [!NOTE]
 > **A personal note on the journey:**
 > It's normal to feel like a beginner—with occasional, impromptu flashes of self-actualization. You look back after 10 or 20 years, and you still feel like a beginner.
