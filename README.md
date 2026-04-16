@@ -10,12 +10,10 @@ Specialising in building secure, scalable applications across the entire stack�
 ## 🏗️ Featured Architecture
 
 ### 🇬🇧 DevSecOps Market Intelligence Engine
-A high-performance, edge-computing application that transforms raw job board data into actionable market intel. This isn't just a list of jobs; it's a real-time statistical analysis of the London cybersecurity landscape.
+An extensible, edge-computed market intelligence framework designed to aggregate, parse, and analyze unstructured job board data at scale. While currently configured to provide a real-time statistical analysis of the London cybersecurity landscape, the underlying engine is highly customisable—allowing for the rapid deployment of tailored OSINT dashboards across arbitrary sectors, tech stacks, and geographical locations.
 
-> [!IMPORTANT]  
-> **🔗 [Explore the Live Dashboard](https://my-job-board.pages.dev)**
-> 
-> *Note: The repository for this engine is currently private. I am more than happy to provide a technical walkthrough of the source code and CI/CD pipelines upon request.*
+> [!IMPORTANT]  
+> **🔗 [Explore the Live Dashboard](https://my-job-board.pages.dev)** | **💻 [View the Ingestion Engine](https://github.com/SMCallan/JobDevOpEngine)**
 
 #### 🛠️ Core Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,13 +24,13 @@ A high-performance, edge-computing application that transforms raw job board dat
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### ⚙️ The Data Engine & Deliverables
-How the system delivers high-signal intelligence:
+How the customisable system delivers high-signal intelligence:
 
-* **📥 Ingest:** Daily GitHub Actions trigger a Python pipeline to scrape 500+ roles from Adzuna & Reed APIs.
-* **🧹 Process:** Regex-based cleaning handles complex data formats (like trailing decimals) and normalizes records for a Cloudflare D1 (SQLite) backend.
-* **📊 Analyze:** A custom Cloudflare Worker API performs on-the-fly financial modeling—separating **Contract Day Rates** from **Permanent Salaries** to provide accurate market averages across the entire 14-day dataset.
+* **📥 Configurable Ingest:** Daily GitHub Actions trigger a Python pipeline to scrape targeted roles from Adzuna & Reed APIs. The extraction parameters can be rapidly adjusted to track emerging threat-intel roles or niche software stacks.
+* **🧹 Process & Sanitize:** Regex-based cleaning handles complex data anomalies (like unstructured salary bands and trailing decimals) to normalize records for the Cloudflare D1 (SQLite) backend.
+* **📊 Dynamic Analysis:** A custom Cloudflare Worker API performs on-the-fly financial modeling. It is currently programmed to separate **Contract Day Rates** from **Permanent Salaries**, demonstrating how the engine extracts accurate market averages from noisy datasets.
 * **🎨 Experience:** A Vite + React frontend designed with a **"Trust & Clarity"** palette, specifically optimized for neurodivergent accessibility (ADHD, ASD, and Dyslexia-friendly chunking).
-* **⚡ Edge-Powered:** Real-time search and smart pagination handled at the edge for sub-100ms response times.
+* **⚡ Edge-Powered:** Real-time search, dynamic filtering, and smart pagination are handled entirely at the edge for sub-100ms response times.
 
 ---
 
