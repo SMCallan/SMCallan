@@ -41,3 +41,6 @@ How the customisable system delivers high-signal intelligence:
 > From the master's perspective, potential is everywhere. Those looking at the master see only wisdom and experience.
 >
 > The master smiles and kindly acknowledges: *The road is vast beyond comprehension. I am merely a step ahead, yet we are closer than you realize.*
+
+<img width="1024" height="1536" alt="ChatGPT Image Apr 23, 2026 at 08_52_53 PM" src="https://github.com/user-attachments/assets/c650765b-aea4-464e-9564-20d98838989a" />
+
