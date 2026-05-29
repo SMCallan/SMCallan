@@ -1,6 +1,6 @@
 # Callan Smith MacDonald
 
-**Security — Programming — Web/App**
+**Security — Programming — Web & App**
 
 Websites. Scripts. Small tools. Apps. Automation. Security testing. Servers. Databases. Linux. Hardware. AI tools. General computing.
 
