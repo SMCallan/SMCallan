@@ -1,5 +1,8 @@
-## People share too much information 
-<img width="500" height="375" alt="109 Simpsons Jokes From Later Seasons That Are Impossible Not To Laugh At" src="https://github.com/user-attachments/assets/c1d78f05-f638-411a-a0b2-b985da3adc4e" />
+## Welcome to the world of tomorrow!
 
 ---
-## Consider deleting all your social media
+
+<img width="480" height="360" alt="Blagues sur les africains" src="https://github.com/user-attachments/assets/a39a6a9b-863b-428a-b1c7-91b74417fc78" />
+
+
+---
