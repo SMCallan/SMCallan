@@ -1,15 +1,1 @@
-# Callan Smith MacDonald
-
-**Security — Programming — Web & App**
-
-Websites. Scripts. Small tools. Apps. Automation. Security testing. Servers. Databases. Linux. Hardware. AI tools. General computing.
-
-I’m interested in useful systems, broken systems, and the human beings stuck dealing with them.
-
-Computer Science postgraduate. Webmaster. Mentor. Practical technologist.
-
-Still learning. Still building. Still allergic to bullshit.
-
----
-
-[LinkedIn](https://www.linkedin.com/in/callan-smith-macdonald) · [pwn.college](https://pwn.college/hacker/) · [LeetCode](https://leetcode.com/u/JJkB1pNE/)
+<img width="500" height="375" alt="109 Simpsons Jokes From Later Seasons That Are Impossible Not To Laugh At" src="https://github.com/user-attachments/assets/c1d78f05-f638-411a-a0b2-b985da3adc4e" />
