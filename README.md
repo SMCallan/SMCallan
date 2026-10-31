@@ -1,28 +1,30 @@
-## Hi, I'm Callan 👋
+## Hi, I'm Cal
 
-Software engineer in the UK, focused on **secure engineering and DevSecOps**. I build small, well-documented tools: data pipelines, edge apps on Cloudflare, and simulators. I also design computing courses and mentoring resources.
+**Software engineer and technologist in London.** I build, secure and maintain software for small businesses, charities and individuals. I'm usually the one engineer on a project, from the first conversation to long-term support.
 
-**Currently:** finishing MSc work on digital evolution, and looking for secure engineering, AppSec and platform roles.
+MSc Computer Science (Distinction) · Freelance at **[askcal.co.uk](https://askcal.co.uk)**
+
+### What I do
+
+- **Build:** websites, ecommerce platforms, internal tools and automations
+- **Secure:** security reviews, vulnerability fixes, access control and MFA
+- **Rescue:** take over undocumented or legacy systems, work out how they run, and modernise them
+
+Before going freelance, I was lead full-stack engineer at an industrial gas-analysis manufacturer. There I reverse-engineered undocumented BASIC and Assembly systems and found and fixed an active security vulnerability.
+
+### Selected work
+
+| Project | What it is |
+|---|---|
+| [**AskCal Merch**](https://shop.askcal.co.uk) | Ecommerce platform I built and run: payments, orders, secure admin |
+| [**Solidarity Shop**](https://shopsolidaritycollective.com) | The same platform adapted for a team, with staff roles and MFA |
+| [**VoidRunner**](https://play.askcal.co.uk) | Playable 3D browser game (Three.js, Blender) |
+| [**TIERRA-SIM**](https://github.com/SMCallan/tierra-sim) | Digital-evolution simulator from my MSc dissertation |
+| [**Role Radar**](https://github.com/SMCallan/JobDevOpEngine) | Scheduled job-market data pipeline with a [live dashboard](https://my-job-board.pages.dev/), on GitHub Actions and Cloudflare |
+| [**VulnWatch UK**](https://smcallan.github.io/VulnWatch-UK/) | Vulnerability-intelligence portal built on CISA KEV and EPSS data |
+
+**Stack:** Python · TypeScript · React · SQL · Cloudflare · Docker · GitHub Actions · Linux
 
 ---
 
-### 🔧 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**TIERRA-SIM**](https://github.com/SMCallan/tierra-sim) | Deterministic digital-evolution simulator built for my MSc dissertation. Models how mutation and horizontal gene transfer separate behaviour from ancestry. Includes a browser cockpit, an experiment runner and an analysis suite. | TypeScript, Node |
-| [**Secure Engineering Role Radar**](https://github.com/SMCallan/JobDevOpEngine) | Scheduled pipeline that pulls live London engineering roles from job APIs, cleans up salary data, and scores each role for fit. A [React dashboard](https://github.com/SMCallan/my-job-board) shows the results ([live](https://my-job-board.pages.dev/)). | Python, GitHub Actions, Cloudflare D1/Workers, React |
-| [**VulnWatch UK**](https://github.com/SMCallan/VulnWatch-UK) | Vulnerability-intelligence portal that adds CISA KEV and FIRST EPSS data to CVEs, with UK Gov compliance notes. ([live](https://smcallan.github.io/VulnWatch-UK/)) | HTML/JS, GitHub Pages |
-| [**Edge Chat Agent**](https://github.com/SMCallan/cf_ai_edge_chat_agent) | Stateful AI chat agent on Cloudflare Workers. Durable Objects hold conversation memory, and Workers AI runs the model. | TypeScript, Cloudflare |
-| [**pr0ject_nexus**](https://github.com/SMCallan/pr0ject_nexus) | Rust front end compiled to WebAssembly, deployed by GitHub Actions. | Rust, Leptos, WASM |
-
-### 📚 Teaching & mentoring
-- [**OCN Computing Course**](https://github.com/SMCallan/OCN_Course): structure and delivery site for a practical computing course
-- [**Alternative Provision Mentor Toolkit**](https://github.com/SMCallan/ReadingLIST): curated resources for adolescent mentoring and alternative education
-
-### 🧰 Tools I use
-`TypeScript` `Python` `Rust` `React` `Next.js` `Astro` `Cloudflare Workers / D1 / Pages` `GitHub Actions` `Linux`
-
----
-
-<img width="160" alt="The Space Pope" src="https://github.com/user-attachments/assets/6371d5d4-b6ca-4b8e-ae18-3b3a5e84c6db" />
+**Open to** freelance projects and software or security engineering roles → [askcal.co.uk](https://askcal.co.uk)
